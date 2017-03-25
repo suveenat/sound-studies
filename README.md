@@ -1,7 +1,5 @@
 # sound-studies
 
-Suveena Thanawala
-
 ### A website that showcases research findings on food, eating, and psychoacoustics.
 * HTML
 	* index.html
